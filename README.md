@@ -5,11 +5,11 @@ $pkg install php
 
 $pkg install git
 
-git clone https://github.com/Behrud411/Termux
+$git clone https://github.com/Behrud411/Termux
 
-cd Termux
+$cd Termux
 
-php key.php
+$php key.php
 
 ok itu lah perintaH nya
 
