@@ -11,4 +11,6 @@ cd Termux
 
 php key.php
 
-ok itu lah perinta nya
+ok itu lah perintaH nya
+
+#Jangan Lupa Subrek Chanel yt Penghasil Gratisa
